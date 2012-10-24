@@ -210,6 +210,7 @@
 				3F0AB372162F42A900F9FC21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
